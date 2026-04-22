@@ -4,6 +4,7 @@
 .project
 *.jar
 *.class
+src/test/resources/config/config.properties
 *.html
 *.classpath
 *.DS_Store
