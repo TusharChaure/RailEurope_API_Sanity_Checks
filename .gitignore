@@ -5,7 +5,6 @@
 *.jar
 *.class
 *.html
-src/test/resources/config/config.properties
 *.classpath
 *.DS_Store
 
